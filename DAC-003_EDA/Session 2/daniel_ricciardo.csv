@@ -1,0 +1,254 @@
+race_number,year,grand_prix,team,driver_number,constructor,car,engine_type,tyre,grid_number,race_number,event
+1,2011,Australia,Scuderia Toro Rosso,19,Toro Rosso,STR6,Ferrari V8,Pirelli,na,na,Third driver
+2,2011,Malaysia,Scuderia Toro Rosso,18,Toro Rosso,STR6,Ferrari V8,Pirelli,na,na,Third driver
+3,2011,China,Scuderia Toro Rosso,19,Toro Rosso,STR6,Ferrari V8,Pirelli,na,na,Third driver
+4,2011,Turkey,Scuderia Toro Rosso,19,Toro Rosso,STR6,Ferrari V8,Pirelli,na,na,Third driver
+5,2011,Spain,Scuderia Toro Rosso,18,Toro Rosso,STR6,Ferrari V8,Pirelli,na,na,Third driver
+6,2011,Monaco,Scuderia Toro Rosso,19,Toro Rosso,STR6,Ferrari V8,Pirelli,na,na,Third driver
+7,2011,Canada,Scuderia Toro Rosso,18,Toro Rosso,STR6,Ferrari V8,Pirelli,na,na,Third driver
+8,2011,Europe,Scuderia Toro Rosso,18,Toro Rosso,STR6,Ferrari V8,Pirelli,na,na,Third driver
+9,2011,Britain,HRT F1 Team,22,HRT,F111,Cosworth V8,Pirelli,24,19,
+10,2011,Germany,HRT F1 Team,22,HRT,F111,Cosworth V8,Pirelli,22,19,
+11,2011,Hungary,HRT F1 Team,22,HRT,F111,Cosworth V8,Pirelli,22,18,
+12,2011,Belgium,HRT F1 Team,22,HRT,F111,Cosworth V8,Pirelli,23,ab,Vibration
+13,2011,Italy,HRT F1 Team,22,HRT,F111,Cosworth V8,Pirelli,23,nc,
+14,2011,Singapore,HRT F1 Team,22,HRT,F111,Cosworth V8,Pirelli,23,19,
+15,2011,Japan,HRT F1 Team,22,HRT,F111,Cosworth V8,Pirelli,22,22,
+16,2011,South Korea,HRT F1 Team,22,HRT,F111,Cosworth V8,Pirelli,24,19,
+17,2011,India,HRT F1 Team,23,HRT,F111,Cosworth V8,Pirelli,23,18,
+18,2011,Abu Dhabi,HRT F1 Team,22,HRT,F111,Cosworth V8,Pirelli,20,ab,Electrics
+19,2011,Brazil,HRT F1 Team,22,HRT,F111,Cosworth V8,Pirelli,22,20,
+20,2012,Australia,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,10,9,
+21,2012,Malaysia,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,15,12,
+22,2012,China,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,17,17,
+23,2012,Bahrain,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,6,15,
+24,2012,Spain,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,15,13,
+25,2012,Monaco,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,15,ab,Steering
+26,2012,Canada,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,14,14,
+27,2012,Europe,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,17,11,
+28,2012,Britain,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,12,13,
+29,2012,Germany,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,11,13,
+30,2012,Hungary,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,18,15,
+31,2012,Belgium,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,16,9,
+32,2012,Italy,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,14,12,
+33,2012,Singapore,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,15,9,
+34,2012,Japan,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,14,10,
+35,2012,South Korea,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,21,9,
+36,2012,India,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,15,13,
+37,2012,Abu Dhabi,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,16,10,
+38,2012,USA,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,18,12,
+39,2012,Brazil,Scuderia Toro Rosso,16,Toro Rosso,STR7,Ferrari V8,Pirelli,15,13,
+40,2013,Australia,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,14,ab,Exhaust
+41,2013,Malaysia,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,13,18,Exhaust
+42,2013,China,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,7,7,
+43,2013,Bahrain,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,13,16,
+44,2013,Spain,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,11,10,
+45,2013,Monaco,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,12,ab,Collision
+46,2013,Canada,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,11,15,
+47,2013,Britain,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,5,8,
+48,2013,Germany,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,6,12,
+49,2013,Hungary,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,8,13,
+50,2013,Belgium,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,19,10,
+51,2013,Italy,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,7,7,
+52,2013,Singapore,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,9,ab,Accident
+53,2013,South Korea,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,12,19,Brakes
+54,2013,Japan,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,16,13,
+55,2013,India,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,11,10,
+56,2013,Abu Dhabi,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,9,16,
+57,2013,USA,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,10,11,
+58,2013,Brazil,Scuderia Toro Rosso,19,Toro Rosso,STR8,Ferrari V8,Pirelli,7,10,
+59,2014,Australia,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,2,dsq,Fuel mass flow too High
+60,2014,Malaysia,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,5,ab,Withdrew
+61,2014,Bahrain,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,13,4,
+62,2014,China,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,2,4,
+63,2014,Spain,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,3,3,
+64,2014,Monaco,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,3,3,
+65,2014,Canada,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,6,1,
+66,2014,Austria,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,5,8,
+67,2014,Britain,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,8,3,
+68,2014,Germany,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,5,6,
+69,2014,Hungary,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,4,1,
+70,2014,Belgium,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,5,1,
+71,2014,Italy,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,9,5,
+72,2014,Singapore,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,3,3,
+73,2014,Japan,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,6,4,
+74,2014,Russia,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,6,7,
+75,2014,USA,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,5,3,
+76,2014,Brazil,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,9,ab,Suspension
+77,2014,Abu Dhabi,Infiniti Red Bull Racing,3,Red Bull,RB10,Renault V6 t h,Pirelli,20,4,
+78,2015,Australia,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,6,6,
+79,2015,Malaysia,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,4,10,
+80,2015,China,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,7,9,
+81,2015,Bahrain,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,7,6,
+82,2015,Spain,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,10,7,
+83,2015,Monaco,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,4,5,
+84,2015,Canada,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,9,13,
+85,2015,Austria,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,18,10,
+86,2015,Britain,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,10,ab,ERS
+87,2015,Hungary,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,4,3,
+88,2015,Belgium,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,5,ab,Power loss
+89,2015,Italy,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,19,8,
+90,2015,Singapore,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,2,2,
+91,2015,Japan,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,7,15,
+92,2015,Russia,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,10,15,Suspension
+93,2015,USA,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,3,10,
+94,2015,Mexico,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,5,5,
+95,2015,Brazil,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,19,11,
+96,2015,Abu Dhabi,Infiniti Red Bull Racing,3,Red Bull,RB11,Renault V6 t h,Pirelli,5,6,
+97,2016,Australia,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,8,4,
+98,2016,Bahrain,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,5,4,
+99,2016,China,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,2,4,
+100,2016,Russia,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,5,11,
+101,2016,Spain,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,3,4,
+102,2016,Monaco,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,1,2,
+103,2016,Canada,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,4,7,
+104,2016,Europe,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,2,7,
+105,2016,Austria,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,5,5,
+106,2016,Britain,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,4,4,
+107,2016,Hungary,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,3,3,
+108,2016,Germany,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,3,2,
+109,2016,Belgium,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,5,2,
+110,2016,Italy,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,6,5,
+111,2016,Singapore,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,2,2,
+112,2016,Malaysia,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,4,1,
+113,2016,Japan,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,4,6,
+114,2016,USA,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,3,3,
+115,2016,Mexico,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,4,3,
+116,2016,Brazil,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,6,8,
+117,2016,Abu Dhabi,Red Bull Racing,3,Red Bull,RB12,TAG Heuer V6 t h,Pirelli,3,5,
+118,2017,Australia,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,15,ab,Engine
+119,2017,China,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,5,4,
+120,2017,Bahrain,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,4,5,
+121,2017,Russia,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,5,ab,Brakes
+122,2017,Spain,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,6,3,
+123,2017,Monaco,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,5,3,
+124,2017,Canada,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,6,3,
+125,2017,Azerbaijan,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,10,1,
+126,2017,Austria,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,4,3,
+127,2017,Britain,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,19,5,
+128,2017,Hungary,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,6,ab,Collision
+129,2017,Belgium,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,6,3,
+130,2017,Italy,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,16,4,
+131,2017,Singapore,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,3,2,
+132,2017,Malaysia,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,4,3,
+133,2017,Japan,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,3,3,
+134,2017,USA,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,4,ab,Engine
+135,2017,Mexico,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,16,ab,Turbo
+136,2017,Brazil,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,14,6,
+137,2017,Abu Dhabi,Red Bull Racing,3,Red Bull,RB13,TAG Heuer V6 t h,Pirelli,4,ab,Hydraulics
+138,2018,Australia,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,8,4,
+139,2018,Bahrain,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,4,ab,Electrics
+140,2018,China,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,6,1,
+141,2018,Azerbaijan,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,4,ab,Collision
+142,2018,Spain,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,6,5,
+143,2018,Monaco,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,1,1,
+144,2018,Canada,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,6,4,
+145,2018,France,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,5,4,
+146,2018,Austria,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,7,ab,Exhaust
+147,2018,Britain,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,6,5,
+148,2018,Germany,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,19,ab,Power loss
+149,2018,Hungary,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,12,4,
+150,2018,Belgium,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,8,ab,Withdrew
+151,2018,Italy,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,19,ab,Clutch
+152,2018,Singapore,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,6,6,
+153,2018,Russia,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,18,6,
+154,2018,Japan,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,15,4,
+155,2018,USA,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,4,ab,Battery
+156,2018,Mexico,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,1,ab,Clutch
+157,2018,Brazil,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,11,4,
+158,2018,Abu Dhabi,Aston Martin Red Bull Racing,3,Red Bull,RB14,TAG Heuer V6 t h,Pirelli,5,4,
+159,2019,Australia,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,12,ab,Damages
+160,2019,Bahrain,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,10,18,Power loss
+161,2019,China,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,7,7,
+162,2019,Azerbaijan,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,10,ab,Collision
+163,2019,Spain,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,13,12,
+164,2019,Monaco,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,6,9,
+165,2019,Canada,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,4,6,
+166,2019,France,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,8,11,10s penalty
+167,2019,Austria,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,12,12,
+168,2019,Britain,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,7,7,
+169,2019,Germany,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,13,ab,Exhaust
+170,2019,Hungary,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,20,14,
+171,2019,Belgium,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,10,14,
+172,2019,Italy,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,5,4,
+173,2019,Singapore,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,20,14,
+174,2019,Russia,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,10,ab,Handling
+175,2019,Japan,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,16,dsq,Brakes infringement
+176,2019,Mexico,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,13,8,
+177,2019,USA,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,9,6,
+178,2019,Brazil,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,11,6,
+179,2019,Abu Dhabi,Renault F1 Team,3,Renault,R.S.19,Renault V6 t h,Pirelli,7,11,
+180,2020,Austria,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,10,ab,Overheating
+181,2020,Styria,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,8,8,
+182,2020,Hungary,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,11,8,
+183,2020,Britain,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,8,4,
+184,2020,70th Anniversary,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,5,14,
+185,2020,Spain,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,13,11,
+186,2020,Belgium,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,4,4,
+187,2020,Italy,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,7,6,
+188,2020,Tuscany,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,8,4,
+189,2020,Russia,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,5,5,5s penalty
+190,2020,Eifel,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,6,3,
+191,2020,Portugal,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,10,9,
+192,2020,Emilia-Romagna,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,5,3,
+193,2020,Turkey,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,5,10,
+194,2020,Bahrain,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,6,7,
+195,2020,Sakhir,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,7,5,
+196,2020,Abu Dhabi,Renault DP World F1 Team,3,Renault,R.S.20,Renault V6 t h,Pirelli,11,7,
+197,2021,Bahrain,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,6,7,
+198,2021,Emilia-Romagna,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,6,6,
+199,2021,Portugal,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,16,9,
+200,2021,Spain,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,7,6,
+201,2021,Monaco,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,12,12,
+202,2021,Azerbaijan,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,13,9,
+203,2021,France,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,10,6,
+204,2021,Styria,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,13,13,
+205,2021,Austria,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,13,7,
+206,2021,Britain,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,6,5,
+207,2021,Hungary,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,11,11,
+208,2021,Belgium,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,4,4,
+209,2021,Netherlands,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,10,11,
+210,2021,Italy,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,2,1,
+211,2021,Russia,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,5,4,
+212,2021,Turkey,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,20,13,
+213,2021,USA,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,6,5,
+214,2021,Mexico City,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,7,12,
+215,2021,São Paulo,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,11,ab,Engine
+216,2021,Qatar,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,14,12,
+217,2021,Saudi Arabia,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,11,5,
+218,2021,Abu Dhabi,McLaren F1 Team,3,McLaren,MCL35M,Mercedes V6 t h,Pirelli,10,12,
+219,2022,Bahrain,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,18,14,
+220,2022,Saudi Arabia,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,14,ab,Clutch
+221,2022,Australia,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,7,6,
+222,2022,Emilia-Romagna,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,6,18,
+223,2022,Miami,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,14,13,5s penalty
+224,2022,Spain,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,9,12,
+225,2022,Monaco,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,14,13,
+226,2022,Azerbaijan,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,12,8,
+227,2022,Canada,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,9,11,
+228,2022,Britain,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,14,13,
+229,2022,Austria,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,11,9,
+230,2022,France,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,9,9,
+231,2022,Hungary,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,9,15,5s penalty
+232,2022,Belgium,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,7,15,
+233,2022,Netherlands,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,17,17,
+234,2022,Italy,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,4,ab,Oil leak
+235,2022,Singapore,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,16,5,
+236,2022,Japan,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,11,11,
+237,2022,USA,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,15,16,
+238,2022,Mexico City,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,11,7,10s penalty
+239,2022,São Paulo,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,11,ab,Collision
+240,2022,Abu Dhabi,McLaren F1 Team,3,McLaren,MCL36,Mercedes V6 t h,Pirelli,13,9,
+241,2023,Hungary,Scuderia AlphaTauri,3,AlphaTauri,AT04,Honda RBPT V6 t h,Pirelli,13,13,
+242,2023,Belgium,Scuderia AlphaTauri,3,AlphaTauri,AT04,Honda RBPT V6 t h,Pirelli,19,16,
+243,2023,Netherlands,Scuderia AlphaTauri,3,AlphaTauri,AT04,Honda RBPT V6 t h,Pirelli,na,na,Injury
+244,2023,USA,Scuderia AlphaTauri,3,AlphaTauri,AT04,Honda RBPT V6 t h,Pirelli,14,15,
+245,2023,Mexico City,Scuderia AlphaTauri,3,AlphaTauri,AT04,Honda RBPT V6 t h,Pirelli,4,7,
+246,2023,São Paulo,Scuderia AlphaTauri,3,AlphaTauri,AT04,Honda RBPT V6 t h,Pirelli,17,13,
+247,2023,Las Vegas,Scuderia AlphaTauri,3,AlphaTauri,AT04,Honda RBPT V6 t h,Pirelli,14,14,
+248,2023,Abu Dhabi,Scuderia AlphaTauri,3,AlphaTauri,AT04,Honda RBPT V6 t h,Pirelli,15,11,
+249,2024,Bahrain,Visa Cash App RB F1 Team,3,RB,VCARB 01,Honda RBPT V6 t h,Pirelli,14,13,
+250,2024,Saudi Arabia,Visa Cash App RB F1 Team,3,RB,VCARB 01,Honda RBPT V6 t h,Pirelli,14,16,
+251,2024,Australia,Visa Cash App RB F1 Team,3,RB,VCARB 01,Honda RBPT V6 t h,Pirelli,18,12,
+,,,,,,, ,,,,
+,,,,,,, ,,,,
