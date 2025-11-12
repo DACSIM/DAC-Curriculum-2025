@@ -10,7 +10,7 @@
 
   <!-- DAA-001 -->
   <tr>
-    <td rowspan="2">🐍 <b>DAA-001: Intro to Python</b></td>
+    <td rowspan="2">🐍 <b>DAA-001: Introduction to Python</b></td>
     <td>Intro_to_Python_Session_1</td>
     <td>07/10/2025</td>
     <td>Elly</td>
@@ -65,15 +65,15 @@
 
   <!-- DAA-006 -->
   <tr>
-    <td>💬 <b>DAA-006: NLP</b></td>
-    <td>NLP</td>
+    <td rowspan="1">💬 <b>DAA-006: Natural Language Processing (NLP)</b></td>
+    <td>NLP_Session_1</td>
     <td>06/11/2025</td>
     <td>Divya</td>
   </tr>
 
   <!-- DAA-007 -->
   <tr>
-    <td rowspan="3">🤖 <b>DAA-007: Machine Learning</b></td>
+    <td rowspan="3">🤖 <b>DAA-007: Machine Learning (ML)</b></td>
     <td>ML_Session_1</td>
     <td>11/11/2025</td>
     <td>Belinda</td>
